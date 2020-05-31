@@ -26,11 +26,11 @@ social:
   bilibili: 
   linkedin: 
   steam: 
-  others: 
+  others: https://www.pixiv.net/users/3576565
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
+  friendA:
   friendB: 
   friendC: 
 about:
