@@ -26,7 +26,7 @@ social:
   bilibili: 
   linkedin: 
   steam: 
-  others: www.pixiv.net/users/3576565
+  others: http://www.pixiv.net/users/3576565
   rss: 
 # friends
 friends:
@@ -39,16 +39,16 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: Russet Burbank's 小說站
+SEO_title: Russet Burbank's novels
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: Russet Burbank's 小說站
+main_title: Russet Burbank's novels
 # subtitle
-subtitle: 
+subtitle: Adult novels
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
