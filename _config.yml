@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Russet Burbank's Novel
+subtitle: 'Adult Novel'
 description: ''
-keywords:
-author: John Doe
+keywords: Light Novel
+author: Russet Burbank
 language: en
-timezone: ''
+timezone: '+0800'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
