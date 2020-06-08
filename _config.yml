@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Russet Burbank's novel
-subtitle: ''
-description: ''
-keywords: ''
+title: Russet Burbank's Novel
+subtitle: Novel
+description: 
+keywords:
 author: Russet Burbank
-language: en
-timezone: 'UTC +0800'
+language: zh
+timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
