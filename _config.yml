@@ -4,12 +4,12 @@
 
 # Site
 title: Russet Burbank's Novel
-subtitle: 'Adult Novel'
+subtitle: ''
 description: ''
 keywords: Light Novel
 author: Russet Burbank
 language: en
-timezone: '+0800'
+timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
