@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Russet Burbank's Novel
-subtitle: ''
-description: ''
+title: Russet Burbank 的小說小站
+subtitle: Russet Burbank個人小說博客
+description: 保存Pixiv寫過的小說
 keywords: Light Novel
 author: Russet Burbank
-language: en
-timezone: ''
+language: zh
+timezone: 'UTC +0800'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
