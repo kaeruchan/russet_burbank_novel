@@ -9,6 +9,7 @@ branches:
 script:
   - hexo generate # generate static files
 deploy:
+  fqdn: russet-burbank-novel.com
   provider: pages
   skip-cleanup: true
   github-token: $GH_TOKEN
