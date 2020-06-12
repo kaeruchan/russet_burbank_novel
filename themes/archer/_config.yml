@@ -27,7 +27,7 @@ social:
   linkedin: 
   steam: 
   others: http://www.pixiv.net/users/3576565
-  rss: 
+  rss: /atom.xml
 # friends
 friends:
   friendA: 
